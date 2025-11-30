@@ -266,7 +266,8 @@ def create_plot(x_vals, y_vals, expr_str, lower_limit, upper_limit):
         return None
 
 def main():
-    st.title(' Advanced Integration Calculator')
+    st.title('Kalkulator Solusi Integral')
+    st.title('Metode Pias Titik Tengah')
     
     st.markdown("""
     <div class='highlight'>
