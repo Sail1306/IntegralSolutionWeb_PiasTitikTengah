@@ -6,7 +6,7 @@ from PIL import Image
 try:
     icon = Image.open("assets/icon.png")
 except:
-    icon = "∰"
+    icon = "📈"
 
 st.set_page_config(
     page_title="Integral Solution (Pias Titik Tengah)",
