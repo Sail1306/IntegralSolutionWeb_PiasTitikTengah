@@ -6,10 +6,10 @@ from PIL import Image
 try:
     icon = Image.open("assets/icon.png")
 except:
-    icon = "📐"
+    icon = "∰"
 
 st.set_page_config(
-    page_title="Integration Calculator",
+    page_title="Integral Solution (Pias Titik Tengah)",
     page_icon=icon,
     layout="centered",
     initial_sidebar_state="expanded"
