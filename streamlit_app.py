@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-import sympy as sp
 from scipy.integrate import quad
 import scipy.special as special
 from PIL import Image
