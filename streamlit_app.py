@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 from PIL import Image
-from plotly.subplots import make_subplots
+
 
 try:
     icon = Image.open("assets/icon.png")
