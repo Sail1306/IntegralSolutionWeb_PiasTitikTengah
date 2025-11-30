@@ -272,7 +272,7 @@ def main():
     st.markdown("""
     <div class='highlight'>
     **Welcome to the Integration Calculator!** This tool computes **definite and indefinite** integrals easily.  
-    **Made by Uttaran** 🏆
+    **Made by Saila** 🏆
     </div>
     """, unsafe_allow_html=True)
 
