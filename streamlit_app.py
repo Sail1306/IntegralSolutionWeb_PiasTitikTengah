@@ -1,8 +1,6 @@
 import streamlit as st
 import numpy as np
-import scipy.special as special
 from PIL import Image
-import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 try:
