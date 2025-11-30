@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-from scipy.integrate import quad
 import scipy.special as special
 from PIL import Image
 import plotly.graph_objects as go
