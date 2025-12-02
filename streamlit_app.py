@@ -1,13 +1,6 @@
-# app.py
 import streamlit as st
 import numpy as np
-from PIL import Image
-import sympy as sp
-from scipy import special
-from plotly.subplots import make_subplots
-import plotly.graph_objects as go
 
-# safe icon load
 try:
     icon = Image.open("assets/icon.png")
 except:
