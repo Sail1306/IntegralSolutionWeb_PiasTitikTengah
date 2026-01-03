@@ -7,7 +7,7 @@ except:
     icon = "📈"
 
 st.set_page_config(
-    page_title="Integral Solution (Pias Titik Tengah)",
+    page_title="Integral Solution(Pias Titik Tengah)",
     page_icon=icon,
     layout="centered",
     initial_sidebar_state="expanded"
