@@ -243,7 +243,7 @@ def main():
         with st.expander("📚 Function Guide", expanded=False):
             st.markdown("""
             <div class='function-guide'>
-            <h3>🔢 Basic Operations</h3>
+            <h3>🔢 Basic-Operations</h3>
             • Addition: <span class='code-text'>+</span> (x + 1)<br>
             • Multiplication: <span class='code-text'>*</span> (2*x)<br>
             • Power: <span class='code-text'>**</span> (x**2)<br>
