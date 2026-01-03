@@ -165,7 +165,7 @@ def create_plot(x_vals, y_vals, expr_str, lower_limit, upper_limit):
 # MAIN APP
 # --------------------------
 def main():
-    st.title('Kalkulator Solusi Integral')
+    st.title('Kalkulator Integral')
     st.title('Metode Pias Titik Tengah')
 
     st.markdown("""
